@@ -1,5 +1,5 @@
 ---
-title: A Spoonful of Hugo
+title: A Spoonful of Hugo 
 description: |
   A forking fun new feature for series.
 author: Alison Hill
@@ -43,4 +43,4 @@ cascade:
   - R
 ---
 
-** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
+\*\* No content below YAML for the series \_index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.\*\*

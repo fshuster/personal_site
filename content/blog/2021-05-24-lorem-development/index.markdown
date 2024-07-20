@@ -24,7 +24,7 @@ categories:
 {{< panel name="Code" >}}
 
 
-```r
+``` r
 plot(pressure)
 ```
 
