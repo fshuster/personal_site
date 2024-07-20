@@ -1,14 +1,14 @@
 ---
 title: "Lorem Simpson"
-subtitle: ""
-excerpt: "An .Rmarkdown post"
-date: 2021-05-26
 author: "Alison Hill"
+date: "2021-05-26"
+excerpt: An .Rmarkdown post
+subtitle: ''
 draft: false
-images:
-series:
-tags:
-categories:
+images: null
+series: null
+tags: null
+categories: null
 layout: single
 ---
 
