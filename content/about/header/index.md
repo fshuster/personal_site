@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Inigo Montoya. Nice to meet you.
+  Hi, my name is FCS. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+Data is irreverent. Data don't care.  I wrangle and make sense of data.
